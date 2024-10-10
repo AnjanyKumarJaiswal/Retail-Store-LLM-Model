@@ -1,0 +1,200 @@
+{"instruction": "How many items are there in the store?", "response": "There are 500 items in our store."}
+{"instruction": "Do you have a discount on shoes?", "response": "Yes, we have a 20% discount on shoes."}
+{"instruction": "What are the store timings?", "response": "Our store is open from 9 AM to 9 PM every day."}
+{"instruction": "Can I return an item after 30 days?", "response": "No, the return window is only 30 days."}
+{"instruction": "Where can I find electronics?", "response": "Electronics are in aisle 5."}
+{"instruction": "Is there parking available?", "response": "Yes, we have free parking for customers."}
+{"instruction": "Can I exchange an item without a receipt?", "response": "No, you need a receipt for exchanges."}
+{"instruction": "Do you have a loyalty program?", "response": "Yes, you can earn points with every purchase."}
+{"instruction": "What is the refund policy?", "response": "You can get a refund within 30 days with a receipt."}
+{"instruction": "Can I buy a gift card?", "response": "Yes, we offer gift cards starting at $10."}
+{"instruction": "What is the warranty on electronics?", "response": "All electronics come with a 1-year warranty."}
+{"instruction": "Do you offer home delivery?", "response": "Yes, we offer home delivery within a 10-mile radius."}
+{"instruction": "Is there a discount for bulk purchases?", "response": "Yes, we offer a 10% discount for bulk purchases."}
+{"instruction": "Can I reserve an item online?", "response": "Yes, you can reserve items online for pickup."}
+{"instruction": "Do you sell clothing?", "response": "Yes, we sell a variety of clothing for men, women, and children."}
+{"instruction": "What is the exchange policy?", "response": "Items can be exchanged within 30 days with a receipt."}
+{"instruction": "Are there any clearance sales?", "response": "Yes, we have a clearance sale at the end of each season."}
+{"instruction": "Can I use multiple coupons?", "response": "No, only one coupon can be applied per purchase."}
+{"instruction": "Is there a membership fee?", "response": "No, our loyalty program is free to join."}
+{"instruction": "Do you have any vegan products?", "response": "Yes, we have a range of vegan products available."}
+{"instruction": "Can I pre-order an item?", "response": "Yes, pre-orders are available for select items."}
+{"instruction": "What payment methods do you accept?", "response": "We accept cash, credit, debit, and digital wallets."}
+{"instruction": "Is there a discount for first-time customers?", "response": "Yes, first-time customers get a 10% discount."}
+{"instruction": "Do you offer layaway plans?", "response": "No, we do not offer layaway plans at this time."}
+{"instruction": "What is the process for online returns?", "response": "Online returns can be processed through our website."}
+{"instruction": "Can I return an item I bought online in-store?", "response": "Yes, online purchases can be returned in-store."}
+{"instruction": "Is there a discount for students?", "response": "Yes, students get a 15% discount with a valid ID."}
+{"instruction": "Do you offer price matching?", "response": "Yes, we match prices from major competitors."}
+{"instruction": "Do you have curbside pickup?", "response": "Yes, we offer curbside pickup for online orders."}
+{"instruction": "How can I track my order?", "response": "You can track your order through the order confirmation email."}
+{"instruction": "Can I cancel my order?", "response": "Yes, orders can be canceled before they are shipped."}
+{"instruction": "What is the return shipping policy?", "response": "Return shipping is free for defective items."}
+{"instruction": "Do you offer gift wrapping?", "response": "Yes, gift wrapping is available for an additional fee."}
+{"instruction": "Can I order an out-of-stock item?", "response": "Yes, you can request a backorder for out-of-stock items."}
+{"instruction": "What is the best-selling item?", "response": "Our best-selling item is the wireless headphones."}
+{"instruction": "How can I contact customer support?", "response": "You can reach customer support through phone, email, or chat."}
+{"instruction": "Are there any ongoing promotions?", "response": "Yes, we are offering a buy-one-get-one-free promotion."}
+{"instruction": "Do you have a clearance section?", "response": "Yes, the clearance section is near the back of the store."}
+{"instruction": "Can I pay with a check?", "response": "No, we do not accept checks."}
+{"instruction": "Is the store pet-friendly?", "response": "Yes, pets are allowed in the store."}
+{"instruction": "Do you offer financing options?", "response": "Yes, financing is available for purchases over $500."}
+{"instruction": "Can I place an order over the phone?", "response": "Yes, you can place orders over the phone."}
+{"instruction": "What is the policy for damaged items?", "response": "Damaged items can be exchanged or refunded within 30 days."}
+{"instruction": "Do you have an app?", "response": "Yes, you can download our app from the App Store or Google Play."}
+{"instruction": "How long does shipping take?", "response": "Shipping takes 3-5 business days for standard delivery."}
+{"instruction": "Do you offer same-day delivery?", "response": "Yes, same-day delivery is available for select items."}
+{"instruction": "Can I customize my order?", "response": "Yes, customization options are available for certain products."}
+{"instruction": "Do you have a wish list feature?", "response": "Yes, you can create a wish list in your account."}
+{"instruction": "What are your Black Friday deals?", "response": "Our Black Friday deals will be announced next month."}
+{"instruction": "Do you offer any eco-friendly products?", "response": "Yes, we have a range of eco-friendly products available."}
+{"instruction": "Do you have any discounts for teachers?", "response": "We occasionally offer teacher discounts, but not currently. Check our website for promotions."}
+{"instruction": "What is the price of this item?", "response": "That item is $25.99."}
+{"instruction": "Where can I find the dairy products?", "response": "Dairy products are in the refrigerated section at the back of the store."}
+{"instruction": "Do you offer free shipping?", "response": "We offer free shipping on orders over $50."}
+{"instruction": "Can I return a gift without a gift receipt?", "response": "We can offer store credit for returns without a gift receipt."}
+{"instruction": "What's your policy on damaged goods?", "response": "You can return damaged goods for a full refund or exchange within 30 days."}
+{"instruction": "Is there a manager available?", "response": "Let me check if a manager is available. What can I help you with?"}
+{"instruction": "I'm looking for a specific brand of cereal.", "response": "What brand are you looking for? We can check if we carry it."}
+{"instruction": "Do you have any organic milk?", "response": "Yes, we have organic milk in the dairy section."}
+{"instruction": "What time does the store open on Saturdays?", "response": "We open at 9 AM on Saturdays."}
+{"instruction": "Do you have any gluten-free options in the bakery?", "response": "Yes, we have several gluten-free options available in our bakery."}
+{"instruction": "Is there a discount for veterans?", "response": "Yes, we offer a 10% discount for veterans with valid ID."}
+{"instruction": "Can I buy a gift card online?", "response": "Yes, you can purchase gift cards online and have them emailed or mailed."}
+{"instruction": "What is the store's phone number?", "response": "The store's phone number is 555-123-4567."}
+{"instruction": "Do you sell stamps?", "response": "No, we do not sell stamps."}
+{"instruction": "Where can I find the fitting rooms?", "response": "Fitting rooms are located near the restrooms at the back of the store."}
+{"instruction": "Do you have a recycling program?", "response": "Yes, we recycle plastic bags and cardboard boxes. Please bring them to the designated bins near the entrance."}
+{"instruction": "What is the store's email address?", "response": "Our customer service email address is customerservice@storename.com."}
+{"instruction": "Do you have a price match policy?", "response": "Yes, we match prices from local competitors with a valid ad."}
+{"instruction": "Can I pay with a store gift card online?", "response": "Yes, you can use store gift cards for online purchases."}
+{"instruction": "What are your store's hours during the holidays?", "response": "Holiday hours may vary.  Please check our website closer to the specific holiday for updated hours."}
+{"instruction": "Do you sell batteries?", "response": "Yes, we have batteries in aisle 7, near the electronics."}
+{"instruction": "Where is the nearest store location?", "response": "You can find our store locations on our website using the store locator tool."}
+{"instruction": "What are the different shipping options?", "response": "We offer standard, expedited, and express shipping options."}
+{"instruction": "Where can I find the nearest store?", "response": "You can use our store locator on our website to find the nearest store."}
+{"instruction": "What is the store's policy on returns without a tag?", "response": "Items without tags may be returned for store credit only."}
+{"instruction": "Can I use a manufacturer's coupon here?", "response": "Yes, we accept manufacturer coupons."}
+{"instruction": "What are your store's hours today?", "response": "We are open from 9 AM to 10 PM today."}
+{"instruction": "Do you have a price match guarantee?", "response": "Yes, we match prices from local competitors if you have an ad showing the lower price."}
+{"instruction": "Is there a manager I can speak with?", "response": "Let me see if a manager is available. What can I help you with?"}
+{"instruction": "What types of payment do you accept?", "response": "We accept cash, credit cards, debit cards, and mobile payments like Apple Pay and Google Pay."}
+{"instruction": "Where can I find the frozen pizza?", "response": "Frozen pizza is located in the frozen food aisle, near the back of the store."}
+{"instruction": "What are the store's hours on Sunday?", "response": "We are open from 10 AM to 6 PM on Sundays."}
+{"instruction": "Do you have a bakery?", "response": "Yes, our bakery is located at the front of the store."}
+{"instruction": "Can I use a store coupon and a manufacturer's coupon on the same item?", "response": "Yes, you can usually combine store and manufacturer coupons, as long as they follow our coupon policy."}
+{"instruction": "What is the price of this gallon of milk?", "response": "Let me check the price for you. Milk prices can fluctuate."}
+{"instruction": "Is there a butcher in the store?", "response": "Yes, our butchers are available in the meat department to assist you."}
+{"instruction": "Do you sell ice?", "response": "Yes, bags of ice are available near the checkout lanes and in the frozen food section."}
+{"instruction": "Where can I find the canned fruit?", "response": "Canned fruit is in aisle 8, with the other canned goods."}
+{"instruction": "What are your hours on holidays?", "response": "Our holiday hours vary. Please check our website closer to the specific holiday."}
+{"instruction": "Do you have a deli counter?", "response": "Yes, our deli counter is at the back of the store, next to the meat department."}
+{"instruction": "Can I use a gift card to buy another gift card?", "response": "Yes, you can use a gift card to purchase another gift card."}
+{"instruction": "Do you sell propane?", "response": "Yes, we sell propane tanks outside, near the garden center."}
+{"instruction": "Where can I find the frozen desserts?", "response": "Frozen desserts are located in the frozen food aisle, near the ice cream."}
+{"instruction": "Does this store have a pharmacy?", "response": "No, this store does not have a pharmacy."}
+{"instruction": "Where can I find the fresh bread?", "response": "Fresh bread is in our bakery section at the front of the store."}
+{"instruction": "What are your hours during the week?", "response": "Our store is open from 8 AM to 10 PM, Monday through Friday."}
+{"instruction": "Do you have a meat counter?", "response": "Yes, our meat counter is at the back of the store."}
+{"instruction": "Can I use two coupons on one item?", "response": "Our coupon policy only allows one coupon per item, unless stated otherwise."}
+{"instruction": "What is the price of this box of cereal?", "response": "Let me scan it for you. The price on the shelf may not be up-to-date."}
+{"instruction": "Is there someone who can help me choose a new TV?", "response": "Yes, our electronics associates can assist you with selecting a TV."}
+{"instruction": "Do you sell bottled water?", "response": "Yes, bottled water is in the beverage aisle."}
+{"instruction": "Where can I find the pet supplies?", "response": "Pet supplies are located in aisle 18, near the back of the store."}
+{"instruction": "What is the store's phone number?", "response": "The store's phone number is 555-555-5555."}
+{"instruction": "Do you offer online ordering?", "response": "Yes, you can order groceries and many other items online for pickup or delivery."}
+{"instruction": "What are the store's hours today?", "response": "We're open from 7 AM to 11 PM today."}
+{"instruction": "Do you have any self-checkout lanes?", "response": "Yes, we have four self-checkout lanes at the front of the store."}
+{"instruction": "Is there a public restroom I can use?", "response": "Yes, restrooms are located at the back of the store, near the customer service desk."}
+{"instruction": "Can I use a manufacturer's coupon and a store coupon at the same time?", "response": "Yes, you can combine a manufacturer's coupon and a store coupon, as long as they are for different items and comply with our coupon policy."}
+{"instruction": "What is the price of this loaf of bread?", "response": "This loaf of bread is $3.99."}
+{"instruction": "Do you have any cake decorators on staff?", "response": "Yes, our bakery has cake decorators who can create custom cakes. It's best to order at least 24 hours in advance."}
+{"instruction": "Do you sell ice cream?", "response": "Yes, ice cream is in the frozen food aisle."}
+{"instruction": "Where can I find the paper plates?", "response": "Paper plates are in aisle 10, with the other party supplies."}
+{"instruction": "Do you offer online ordering for groceries?", "response": "Yes, you can order groceries online for pickup or delivery through our website or app."}
+{"instruction": "Can I return an item without a receipt?", "response": "We can offer an exchange or store credit for items returned without a receipt, but not a refund."}
+{"instruction": "What is your store's phone number?", "response": "The store's phone number is 555-1212."}
+{"instruction": "Do you have any sales on produce this week?", "response": "Yes, bananas and apples are on sale this week."}
+{"instruction": "Where is the customer service desk located?", "response": "The customer service desk is located at the front of the store to your left as you enter."}
+{"instruction": "Can I use a gift card to purchase groceries?", "response": "Yes, gift cards can be used to purchase any items in the store."}
+{"instruction": "Do you sell stamps?", "response": "No, we do not sell stamps."}
+{"instruction": "Where are the frozen foods located?", "response": "Frozen foods are in aisle 12, along the back wall of the store."}
+{"instruction": "What are your store hours on Sunday?", "response": "Our Sunday hours are 10 AM to 7 PM."}
+{"instruction": "Do you have a meat department?", "response": "Yes, our meat department is at the back of the store."}
+{"instruction": "Can I use coupons that are expired?", "response": "We do not accept expired coupons."}
+{"instruction": "Where can I find the light bulbs?", "response": "Light bulbs are in aisle 14, with the electrical supplies."}
+{"instruction": "Is there an ATM in the store?", "response": "Yes, there's an ATM located near the front entrance."}
+{"instruction": "Where can I find the bottled water?", "response": "Bottled water is in the beverage aisle."}
+{"instruction": "What time does the pharmacy close?", "response": "This store does not have a pharmacy."} 
+{"instruction": "Do you have a floral department?", "response": "Yes, our floral department is located near the front entrance."}
+{"instruction": "Can I use a competitor's coupon?", "response": "We do not accept competitor's coupons, but we do price match with local competitors if you have the ad."}
+{"instruction": "What is the price of this bag of chips?", "response": "This bag of chips is $2.99."}
+{"instruction": "Do you have a fitting room?", "response": "No, we do not have fitting rooms as we don't sell clothing."}
+{"instruction": "Do you sell newspapers?", "response": "Yes, newspapers are available near the checkout lanes."}
+{"instruction": "Where can I find the cleaning products?", "response": "Cleaning products are in aisle 10."}
+{"instruction": "Does the store have Wi-Fi?", "response": "Yes, we offer free Wi-Fi to our customers."}
+{"instruction": "Where are the diapers and baby wipes?", "response": "Diapers and baby wipes are located in aisle 7, in the baby care section."}
+{"instruction": "Do you have any lactose-free milk?", "response": "Yes, lactose-free milk is available in the dairy section. We carry almond milk, soy milk, and lactose-free cow's milk."}
+{"instruction": "I'm looking for a gift for a new baby. Do you have any suggestions?", "response": "We have baby clothes, toys, blankets, and other items in our baby section.  Do you have a budget in mind?  Do you know if it's a boy or girl?"}
+{"instruction": "Do you sell decaf coffee?", "response": "Yes, we have decaf ground coffee and decaf coffee pods in the coffee and tea aisle."}
+{"instruction": "I have a coupon that's about to expire. Can I still use it?", "response": "If the coupon is still valid today, then yes, you can use it."}
+{"instruction": "I'm looking for a specific type of bread. Do you carry sourdough?", "response": "Our bakery carries fresh sourdough bread daily. It's usually available until around midday."}
+{"instruction": "What is the store's policy on returning opened food items?", "response": "We generally don't accept returns on opened food items unless there's a quality issue.  If the product is spoiled or damaged, please bring it to customer service."}
+{"instruction": "Do you have any sales on cleaning supplies this month?", "response": "Yes, all cleaning products are 15% off this month."}
+{"instruction": "I need help choosing a new vacuum cleaner. What kind do you recommend for pet hair?", "response": "For pet hair, we usually recommend a vacuum with strong suction and a HEPA filter.  A bagless canister or upright vacuum is often a good choice.  One of our associates can help you choose a specific model."}
+{"instruction": "Where can I find fresh herbs?", "response": "Fresh herbs are in the produce section, usually near the pre-cut vegetables."}
+{"instruction": "Can I order a birthday cake from your bakery?", "response": "Yes, you can order cakes at our bakery counter. Please give us at least 24 hours' notice."}
+{"instruction": "Do you have any small, portable fans?", "response": "Yes, small fans are available in our seasonal aisle, usually near the summer items. During the winter they might be on a top shelf or moved to a clearance area."}
+{"instruction": "I can't find the cornstarch.", "response": "Cornstarch is typically located in the baking aisle, near the flour and sugar."}
+{"instruction": "Do you offer any discounts for senior citizens?", "response": "Yes, we offer a 10% senior discount every Tuesday."}
+{"instruction": "Are there any current in-store promotions?", "response": "Yes, we have a 'buy two, get one free' deal on all frozen pizzas this week."}
+{"instruction": "Where can I find the trash bags?", "response": "Trash bags are in aisle 10, with the cleaning supplies."}
+{"instruction": "I have a question about my loyalty points. Who can I talk to?", "response": "You can ask any cashier, or you can call our customer service line."}
+{"instruction": "Do you have any electric kettles?", "response": "Yes, electric kettles are in the small appliances section, aisle 6."}
+{"instruction": "I need help finding a specific spice. Do you carry star anise?", "response": "Star anise is usually in the spice aisle, which is aisle 9. If you can't find it, ask an associate for assistance."}
+{"instruction": "Do you have any deals on frozen dinners this week?", "response": "Yes, [Brand Name] frozen dinners are on sale for $2.99 each."}
+{"instruction": "I'm looking for a new toaster oven. What features should I look for?", "response": "Consider the size, wattage, and functions like convection baking or toasting. Our appliance associates can help you find the perfect toaster oven."}
+{"instruction": "These bananas are bruised. Can I get a discount?", "response": "Certainly, please bring the bruised bananas to customer service, and we'll be happy to give you a discount or a fresh bunch."}
+{"instruction": "Where can I find the almond milk?", "response": "Almond milk and other non-dairy milk are typically in the refrigerated section, near the regular milk."}
+{"instruction": "Do you sell baby food?", "response": "Yes, baby food is located in aisle 7, in the baby care section. We have both jarred and pouched baby food."}
+{"instruction": "I'm looking for a specific type of cleaning spray. Do you have [Brand Name] disinfectant?", "response": "Let me check aisle 10, where we keep our cleaning supplies. We may have [Brand Name] or a comparable product."}
+{"instruction": "I'd like to make a fruit salad. What fresh fruits are in season right now?", "response": "Right now, berries, peaches, and watermelon are in season.  They are all excellent choices for a fruit salad!"}
+{"instruction": "Do you sell whole bean coffee?", "response": "Yes, whole bean coffee is available in the coffee and tea aisle."}
+{"instruction": "Can I use a coupon that's printed from my phone?", "response": "Yes, we accept mobile coupons as long as they scan properly at the register."}
+{"instruction": "I'm looking for a specific kind of pasta. Do you carry gluten-free penne?", "response": "Yes, gluten-free pasta, including penne, is available in the health food section and in aisle 9 with the other pasta."}
+{"instruction": "Can I get a raincheck for an item that's out of stock?", "response": "Yes, we offer rainchecks for out-of-stock sale items. Just ask at the customer service desk."}
+{"instruction": "Do you have any electric can openers?", "response": "Yes, electric can openers are available in the small appliances section, aisle 6."}
+{"instruction": "Is there a coffee shop in the store?", "response": "No, there isn't a coffee shop inside the store, but there's one right next door."}
+{"instruction": "Do you have any organic products?", "response": "Yes, we have a variety of organic products in different categories."}
+{"instruction": "Can I recycle old electronics here?", "response": "Yes, we accept old electronics for recycling."}
+{"instruction": "How can I apply for a store credit card?", "response": "You can apply for a store credit card online or at checkout."}
+{"instruction": "Do you offer in-store pickup?", "response": "Yes, we offer in-store pickup for online orders."}
+{"instruction": "What are your holiday hours?", "response": "Our holiday hours will be posted closer to the season."}
+{"instruction": "Do you sell international products?", "response": "Yes, we have a selection of imported products from various countries."}
+{"instruction": "Can I return a sale item?", "response": "Yes, sale items can be returned within 30 days with a receipt."}
+{"instruction": "What is the process for warranty claims?", "response": "Warranty claims can be processed through our customer support team."}
+{"instruction": "Are your products ethically sourced?", "response": "Yes, we ensure that our products are ethically sourced."}
+{"instruction": "Can I pay in installments?", "response": "Yes, we offer installment payments for larger purchases."}
+{"instruction": "Do you offer discounts for veterans?", "response": "Yes, veterans receive a 10% discount with valid ID."}
+{"instruction": "How do I sign up for the newsletter?", "response": "You can sign up for our newsletter through our website."}
+{"instruction": "Are your products cruelty-free?", "response": "Yes, we offer a range of cruelty-free products."}
+{"instruction": "Can I modify my order after placing it?", "response": "Yes, you can modify your order before it is shipped."}
+{"instruction": "Do you offer senior discounts?", "response": "Yes, seniors receive a 10% discount every Tuesday."}
+{"instruction": "How do I request a product that is not available?", "response": "You can request unavailable products through our special order form."}
+{"instruction": "What is the warranty on furniture?", "response": "Our furniture comes with a 5-year warranty."}
+{"instruction": "Do you offer free assembly?", "response": "Yes, free assembly is available for furniture purchases."}
+{"instruction": "Are your prices negotiable?", "response": "No, our prices are fixed, but we offer various discounts."}
+{"instruction": "Do you offer personal shopping services?", "response": "Yes, we offer personal shopping services by appointment."}
+{"instruction": "What is the exchange policy for gifts?", "response": "Gifts can be exchanged within 30 days with a gift receipt."}
+{"instruction": "Can I purchase items in bulk?", "response": "Yes, we offer bulk purchasing options for select items."}
+{"instruction": "Do you sell refurbished electronics?", "response": "Yes, we sell certified refurbished electronics with warranties."}
+{"instruction": "What are the options for custom orders?", "response": "Custom orders can be placed for select products, such as furniture and apparel."}
+{"instruction": "Can I get a refund for shipping costs?", "response": "Shipping costs are refundable only if the item is defective or damaged."}
+{"instruction": "How do I know if my order is ready for pickup?", "response": "You will receive a notification when your order is ready for pickup."}
+{"instruction": "Can I change the delivery address after placing my order?", "response": "Yes, you can change the delivery address before your order is shipped."}
+{"instruction": "Do you have a back-to-school sale?", "response": "Yes, we offer discounts on school supplies during the back-to-school season."}
+{"instruction": "Can I purchase a warranty for my item?", "response": "Yes, extended warranties are available for many of our products."}
+{"instruction": "Do you offer rain checks?", "response": "Yes, we offer rain checks for out-of-stock promotional items."}
+{"instruction": "How do I check the balance on my gift card?", "response": "You can check your gift card balance online or at the store."}
+{"instruction": "Can I combine a gift card with another form of payment?", "response": "Yes, you can combine gift cards with other payment methods."}
+{"instruction": "Do you offer same-day pick-up?", "response": "Yes, same-day pick-up is available for certain items."}

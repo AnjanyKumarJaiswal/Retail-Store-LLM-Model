@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+fastapi
+uvicorn
+python-dotenv
+accelerate
